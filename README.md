@@ -1,1 +1,3 @@
-Hello world.
+# Context
+
+Laying out my thoughts.
