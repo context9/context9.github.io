@@ -1,0 +1,6 @@
+{
+  "htmlWhitespaceSensitivity": "strict",
+  "bracketSameLine": true,
+  "printWidth": 120,
+  "singleAttributePerLine": false
+}
